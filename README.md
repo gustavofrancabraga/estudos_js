@@ -1,4 +1,4 @@
-Bem-vindo(a) ao meu repositório de estudos de JavaScript!
+# Bem-vindo(a) ao meu repositório de estudos de JavaScript!
 
 Este repositório foi criado com o objetivo de armazenar e organizar a minha evolução na linguagem JavaScript. Aqui, você encontrará desde exercícios de lógica de programação básica até scripts mais avançados e pequenos projetos práticos.
 
