@@ -41,5 +41,4 @@ const assistiuAnime = true;
 console.log("Título do anime: " + anime);
 console.log("Número de episódios: " + episódios);
 console.log("Classificação: " + classificação);
-console.log("Assistiu o anime: " + assistiuAnime);      
-
+console.log("Assistiu o anime: " + assistiuAnime);
