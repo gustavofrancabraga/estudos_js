@@ -1,3 +1,5 @@
 ## Meus estudos em JavaScript
 
-Este repositório documenta minha rotina de estudos em JavaScript. Cada pasta representa um conceito novo que aprendi e pratiquei.
+Repositório destinado a exercícios e práticas de JavaScript.
+
+Os códigos serão organizados por nível de complexidade, iniciando pela lógica de programação básica até manipulação de DOM e requisições assíncronas.
