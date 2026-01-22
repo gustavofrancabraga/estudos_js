@@ -1,4 +1,4 @@
-## Meus estudos em JavaScript
+## 💻 Meus estudos em JavaScript
 
 Repositório destinado a exercícios e práticas de JavaScript.
 
