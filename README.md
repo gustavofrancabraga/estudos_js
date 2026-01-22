@@ -1,6 +1,6 @@
 # Bem-vindo(a) ao meu repositório de estudos de JavaScript!
 
-Este repositório foi criado com o objetivo de armazenar e organizar a minha evolução na linguagem JavaScript. Aqui, você encontrará desde exercícios de lógica de programação básica até scripts mais avançados e pequenos projetos práticos.
+### Este repositório foi criado com o objetivo de armazenar e organizar a minha evolução na linguagem JavaScript. Aqui, você encontrará desde exercícios de lógica de programação básica até scripts mais avançados e pequenos projetos práticos.
 
 A intenção deste espaço é documentar o meu aprendizado prático. Cada pasta ou arquivo representa um conceito específico estudado, variando entre manipulação do DOM, funções, programação assíncrona, entre outros.
 
